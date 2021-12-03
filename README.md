@@ -15,4 +15,5 @@ F3 : Jump Pack<br>
 F4 : Drone<br>
 F5 : Meltal Detector<br><br>
 
-exe파일 구글드라이브 링크 : https://drive.google.com/file/d/1O_Gu2gCbJ9dJQyU3nURP2LNZfzPyoqTp/view?usp=sharing
+exe파일 구글드라이브 링크 : https://drive.google.com/file/d/1O_Gu2gCbJ9dJQyU3nURP2LNZfzPyoqTp/view?usp=sharing<br>
+# exe파일은 pyinstaller의 --onefile 명령어로 제작되었습니다.

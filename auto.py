@@ -67,7 +67,7 @@ def handleRelease(key):
         return False
 
 if __name__ == "__main__":
-    print('\nESC : quit mecro\n')
+    print('\nESC : quit macro\n')
     print('F : Reinforce')
     print('V : Railcannon Strike')
     print('C : Heavy Airstrike')

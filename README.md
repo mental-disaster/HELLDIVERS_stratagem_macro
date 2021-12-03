@@ -1,6 +1,8 @@
-# HELLDIVERS_stratagem_mecro
+# HELLDIVERS_stratagem_macro
 ---
 헬다이버즈 스트라타젬 매크로입니다.<br>
+기본 기능은 아래와 같습니다.<br>
+
 ESC : 매크로를 종료합니다.<br>
 F : Reinforce<br>
 V : Railcannon Strike<br>
